@@ -2,6 +2,7 @@
 # Futbol.AI
 
 Nota: Al subir commit a este github, hubo un aparente conflicto de archivos, parece que se solucionó, pero es mejor extraer directamente el archivo .zip que se subió al Drive, en vez de este repositorio, por si acaso.
+
 El presente proyecto de PGWeb busca un acercamiento a una página moderna que apunte a una web de deportes, especialmente orientada a Fútbol, que integre noticias, interacción y otras funcionalidades, así como con algunas derivadas del uso de Inteligencia Artificial para la predicción de resultados de partidos. A continuación, se presentan las diferentes funcionalidades hasta el momento. 
 
 
